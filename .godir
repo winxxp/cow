@@ -1,0 +1,7 @@
+github.com/winxxp/cow
+github.com/cyfdecyf/bufio
+github.com/cyfdecyf/color
+github.com/cyfdecyf/leakybuf
+github.com/shadowsocks/shadowsocks-go
+github.com/codahale/chacha20
+golang.org/x/crypto
